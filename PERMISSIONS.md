@@ -6,6 +6,7 @@ I'm open to discussions and happy to work with you to ensure a positive experien
 
 Please note that the Datapack is my original creation and is protected by copyright and other intellectual property laws. 
 As such, I appreciate your respect for my creative work and refrain from sharing or modifying it without proper authorization.
+You are fully allowed to send this datapack to your friends and advertise it, but please do not advertise it as your own or re-upload it to another site claiming that it is yours.
 
 While I strive to provide a high-quality experience, please understand that I cannot be held responsible for any issues 
 or damages that may occur while using the Datapack.
