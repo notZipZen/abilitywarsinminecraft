@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"wars:slime-green",
+        "wars:slime-bouncy",
+		"origins:fall_immunity"
+	],
+	"icon": "minecraft:slime_block",
+	"order": 15,
+	"impact": 2,
+	"name": "Slime",
+	"description": "You are very sticky and bouncy."
+}

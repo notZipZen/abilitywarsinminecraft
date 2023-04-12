@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"wars:overcharge-discharge",
+        "wars:overcharge-energy"
+	],
+	"icon": "minecraft:blue_dye",
+	"order": 9423,
+	"impact": 2,
+	"name": "Overcharge",
+	"description": "this is NOT from x-men"
+}

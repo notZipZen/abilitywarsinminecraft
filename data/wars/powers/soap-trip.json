@@ -1,0 +1,11 @@
+{
+    "type": "origins:action_on_hit",
+    "bientity_action": {
+        "type": "origins:add_velocity",
+        "z": 0.25,
+        "y": 0.25
+    },
+    
+    "name": "Trip",
+    "description": "Upon hitting an mob or a player, you trip them up, causing them to fall backwards quite far."
+}

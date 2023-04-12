@@ -1,0 +1,31 @@
+{
+    "name": "Slow Falling",
+    "description": "You can give yourself slow falling and remove it at any time.",
+    "type": "origins:multiple",
+    "dsfhgh": {
+        "type": "origins:toggle",
+        "active_by_default": false,
+        "key": "key.origins.secondary_active",
+        "retain_state": true
+    },
+    "asdffd": {
+        "condition": {
+            "type": "origins:power_active",
+            "power": "*:*_dsfhgh"
+        },
+        "type": "origins:action_over_time",
+        "interval": 1,
+        "entity_action": {
+            "type": "origins:apply_effect",
+            "effects": [
+                {
+                    "effect": "minecraft:slow_falling",
+                    "duration": 10,
+                    "amplifier": 3,
+                    "show_particles": true,
+                    "show_icon": true
+                }
+            ]
+        }
+    }
+}

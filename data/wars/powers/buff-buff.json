@@ -1,0 +1,82 @@
+{
+	"type": "origins:multiple",
+	"size": {
+		"type": "origins:active_self",
+		"entity_action": {
+			"type": "origins:if_else",
+			"condition": {
+				"type": "origins:power_active",
+				"power": "*:*_toggle"
+			},
+			"if_action": {
+				"type": "origins:and",
+				"actions": [
+					{
+						"type": "origins:execute_command",
+						"command": "scale set pehkui:height 1"
+						
+					},
+					{
+						"type": "origins:execute_command",
+						"command": "scale set pehkui:width 1"
+						
+					},
+                    {
+                        "type": "origins:clear_effect",
+                        "effect": "minecraft:slowness"
+                    },
+                    {
+                        "type": "origins:clear_effect",
+                        "effect": "minecraft:strength"
+                    }
+				]
+			},
+			"else_action": {
+				"type": "origins:and",
+				"actions": [
+					{
+						"type": "origins:execute_command",
+						"command": "scale set pehkui:height 2.5"
+					},
+					{
+						"type": "origins:execute_command",
+						"command": "scale set pehkui:width 2.5"
+					},
+                    {
+                        "type": "origins:apply_effect",
+                        "effect": {
+                            "effect": "minecraft:strength",
+                            "amplifier": 2,
+                            "duration": 99999
+                        }
+                    },
+                    
+                    {
+                        "type": "origins:apply_effect",
+                        "effect": {
+                            "effect": "minecraft:slowness",
+                            "amplifier": 2,
+                            "duration": 99999
+                        }
+                    }
+				]
+			}
+		},
+		"hud_render": {
+			"should_render": true
+		},
+		"cooldown": 20,
+		"key": {
+			"key": "key.origins.primary_active"
+		}
+	},
+	"toggle": {
+		"type": "origins:toggle",
+		"active_by_default" : false,
+		"key": {
+			"key": "key.origins.primary_active"
+		}
+	},
+	"name": "Buff",
+	"description": "You grow 2.5 blocks tall and receive strength 2. However, you also receive slowness 2."
+}

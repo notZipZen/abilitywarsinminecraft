@@ -1,0 +1,14 @@
+{
+    "type": "origins:action_on_hit",
+    "bientity_action": {
+        "type": "origins:damage",
+        "amount": 2,
+        "source": {
+            "name": "cramming.player",
+            "bypasses_armor": true
+        }
+    },
+
+    "name": "Discombobulate",
+    "description": "You discombobulate your enemies, and deal a guaranteed 1 heart of damage, no matter what weapon you are using or what armour they are wearing."
+}

@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"wars:buff-buff"
+	],
+	"icon": "minecraft:bedrock",
+	"order": 10,
+	"impact": 2,
+	"name": "Buff",
+	"description": "You hit the gym a bit too much."
+}

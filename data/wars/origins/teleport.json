@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"wars:teleport-teleport"
+	],
+	"icon": "minecraft:ender_eye",
+	"order": 2,
+	"impact": 1,
+	"name": "Teleportation",
+	"description": "You can teleport."
+}

@@ -1,0 +1,17 @@
+
+{
+    "type": "apoli:action_over_time",
+    "interval": 2,
+    "entity_action": {
+        "type": "apoli:apply_effect",
+        "effect": {
+            "effect": "minecraft:speed",
+            "duration": 10,
+            "amplifier": 1,
+            "show_particles": false
+        }
+    },
+
+    "name": "Energy",
+    "description": "The electricity stored in your body charges you up and gives you speed."
+}

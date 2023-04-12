@@ -1,0 +1,23 @@
+{
+    "name": "Electric Discharge",
+    "description": "Discharge your electricity when you hit an entity, giving them the wither effect for 5 seconds.",
+    "type": "origins:target_action_on_hit",
+    "entity_action": {
+      "type": "origins:and",
+      "actions": [
+        {
+            "type": "origins:apply_effect",
+            "effect": {
+                "effect": "minecraft:wither",
+                "amplifier": 100,
+                "duration": 100
+              }
+        }
+      ]
+      
+    },
+    "cooldown": 200,
+    "hud_render": {
+      "should_render": true
+    }
+  }

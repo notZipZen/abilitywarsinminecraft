@@ -1,0 +1,8 @@
+{
+    "type": "origins:climbing",
+    "name": "Sticky",
+    "description": "You can climb walls.",
+    "condition": {
+        "type": "origins:collided_horizontally"
+    }
+}

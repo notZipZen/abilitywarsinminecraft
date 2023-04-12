@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"wars:coffee-damageovertime",
+        "wars:coffee-speed"
+	],
+	"icon": "minecraft:cocoa_beans",
+	"order": 1,
+	"impact": 1,
+	"name": "Coffee",
+	"description": "You drank a cup of coffee."
+}

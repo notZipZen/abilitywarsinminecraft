@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"wars:bounty-wallclimb",
+        "wars:bounty-bounty"
+	],
+	"icon": "minecraft:gold_nugget",
+	"order": 10,
+	"impact": 1,
+	"name": "Bounty Hunter",
+	"description": "You hunt bountys for a living."
+}

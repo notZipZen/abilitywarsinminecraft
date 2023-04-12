@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"wars:gravity-levitate",
+        "wars:gravity-slowfall"
+	],
+	"icon": "minecraft:chorus_fruit",
+	"order": 6,
+	"impact": 2,
+	"name": "Gravity",
+	"description": "The manipulator of Gravity"
+}

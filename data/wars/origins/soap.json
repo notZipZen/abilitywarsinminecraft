@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"wars:soap-slippy",
+        "wars:soap-trip"
+	],
+	"icon": "minecraft:pink_wool",
+	"order": 10,
+	"impact": 2,
+    
+	"name": "Soap",
+	"description": "Don't drop it."
+}

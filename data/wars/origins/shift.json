@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"wars:shift-shift"
+	],
+	"icon": "minecraft:blue_stained_glass",
+	"order": 5,
+	"impact": 2,
+	"name": "Shift",
+	"description": "Shift towards your enemy."
+}

@@ -1,0 +1,19 @@
+{
+  "replace": true,
+  "origins": [
+    "wars:default",
+    "wars:coffee",
+    "wars:teleport",
+    "wars:energy",
+    "wars:discombobulate",
+    "wars:shift",
+    "wars:gravity",
+    "wars:glue",
+    "wars:soap",
+    "wars:grapple",
+    "wars:buff",
+    "wars:slime",
+    "wars:bounty",
+    "wars:overcharge"
+  ]
+}

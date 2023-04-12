@@ -1,0 +1,8 @@
+{
+	"type": "origins:damage_over_time",
+	"interval": 1200,
+	"damage": 2,
+
+	"name": "Weakened",
+	"description": "You take a heart of damage every minute."
+}

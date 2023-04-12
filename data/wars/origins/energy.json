@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"wars:energy-speed",
+        "wars:energy-damageovertime"
+	],
+	"icon": "minecraft:sugar",
+	"order": 3,
+	"impact": 1,
+	"name": "Energy Drink",
+	"description": "You had an Energy Drink."
+}

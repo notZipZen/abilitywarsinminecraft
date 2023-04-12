@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"wars:glue-wallclimb",
+        "wars:glue-fragile"
+	],
+	"icon": "minecraft:snow_block",
+	"order": 10,
+	"impact": 1,
+	"name": "Glue",
+	"description": "You are very sticky."
+}

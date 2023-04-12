@@ -1,0 +1,17 @@
+{
+    "type": "origins:action_over_time",
+    "interval": 10,
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:slowness",
+            "amplifier": 0,
+            "duration": 30,
+            "show_particles": false,
+            "is_ambient": true
+        }
+    },
+
+    "name": "Discombobulated",
+    "description": "You are discombobulated, giving you permanent slowness."
+}

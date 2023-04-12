@@ -1,0 +1,10 @@
+{
+    "type": "origins:model_color",
+            "red": 0,
+            "blue": 0,
+            "alpha": 0.75,
+            "green": 0.75,
+
+        "name": "Made of Slime",
+        "description": "You are made of slime, making you green and partially see-through."
+}

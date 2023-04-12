@@ -1,0 +1,9 @@
+{
+    "type": "origins:modify_slipperiness",
+    "name": "Slippy",
+    "description": "You slip on all blocks, as if they were made of ice.",
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 0.75
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "type": "apoli:self_action_on_kill",
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "give @p gold_ingot 1"
+    },
+    "cooldown": 0,
+
+    "name": "Bounty Claimer",
+    "description": "Upon killing any entity, claim your bounty of 1 Gold Bar."
+}

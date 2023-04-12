@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"wars:discombobulate-slow",
+        "wars:discombobulate-discombobulate"
+	],
+	"icon": "minecraft:bone_block",
+	"order": 4,
+	"impact": 1,
+	"name": "Discombobulate",
+	"description": "You can discombobulate your enemies."
+}
