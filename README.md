@@ -46,3 +46,6 @@ Step 6:
 Step 7:
 
 Get an Orb Of Origin from the creative menu and change your origin to any of the Ability Wars Origins.
+
+# ORIGINS AND INFO
+See Wiki
